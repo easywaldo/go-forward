@@ -3,6 +3,9 @@ source "https://rubygems.org"
 # Use GitHub Pages compatible gems
 gem "github-pages", group: :jekyll_plugins
 
+# Theme
+gem "minima", "~> 2.5"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
