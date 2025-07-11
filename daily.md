@@ -4,7 +4,7 @@ title: 일상이야기
 permalink: /daily/
 ---
 
-🌱 개발자의 일상, 생각, 그리고 소소한 이야기들을 공유합니다.
+개발자의 일상, 생각, 그리고 소소한 이야기들을 공유합니다.
 
 <div class="post-list">
 {% for post in site.posts %}

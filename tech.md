@@ -4,7 +4,7 @@ title: TECH
 permalink: /tech/
 ---
 
-> 🚀 최신 기술 트렌드, 개발 경험, 그리고 배운 것들을 기록합니다.
+최신 기술 트렌드, 개발 경험, 그리고 배운 것들을 기록합니다.
 
 <div class="post-list">
 {% for post in site.posts %}
