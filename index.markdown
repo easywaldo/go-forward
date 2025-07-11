@@ -31,17 +31,15 @@ title: Easywaldo's 블로그
 ## 카테고리별 포스트
 
 <div class="category-links">
-  <a href="/tech/" class="category-link">
+  <a href="{{ 'tech/' | relative_url }}" class="category-link">
     <h3>🔧 기술</h3>
     <p>개발 관련 포스트와 기술 학습 기록</p>
   </a>
-  
-  <a href="/daily/" class="category-link">
+  <a href="{{ 'daily/' | relative_url }}" class="category-link">
     <h3>📝 일상이야기</h3>
     <p>개발자의 일상과 생각들</p>
   </a>
-  
-  <a href="/about/" class="category-link">
+  <a href="{{ 'about/' | relative_url }}" class="category-link">
     <h3>👋 내소개</h3>
     <p>블로그 운영자 소개</p>
   </a>
