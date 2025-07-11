@@ -29,7 +29,8 @@ twitter_username:
 github_username: easywaldo@gmail.com
 
 # Build settings
-theme: minima
+markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-sitemap
