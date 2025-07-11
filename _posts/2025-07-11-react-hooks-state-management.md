@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: "이벤트소싱과 마이크로서비스 아키텍쳐 스터디"
 date: 2025-07-11 14:30:00 +0900
 categories: [tech]
 tags: [DDD, 도메인주도설계, 마이크로서비스, 아키텍쳐, 스터디]
 excerpt: "도메인 주도 설계(DDD)에 대한 스터디 내용을 정리하고 핵심 개념들을 살펴보겠습니다."
+author_profile: true
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 # 제1장 : 도메인 주도 설계

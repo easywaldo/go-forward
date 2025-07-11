@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: 내소개
 permalink: /about/
+author_profile: true
+classes: wide
 ---
 
 # 안녕하세요! 👋

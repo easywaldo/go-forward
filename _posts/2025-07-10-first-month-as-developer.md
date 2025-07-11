@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: "새로운 여정의 시작"
 date: 2025-07-10 20:00:00 +0900
 categories: [daily]
 tags: [회고, 개발자, 일상]
 excerpt: "오랜만에 새롭게 글을 써본다는 것"
+author_profile: true
+toc: true
+toc_sticky: true
+classes: wide
 ---
 
 # 녹이 슬어가는 과거의 블로그
