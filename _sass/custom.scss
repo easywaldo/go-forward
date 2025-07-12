@@ -728,3 +728,9 @@ table {
     font-style: italic;
   }
 }
+
+// Code blocks and preformatted text - 너비를 80%로 제한하고 중앙 정렬
+.highlight, pre {
+  max-width: 80%; /* 너비를 80%로 제한 */
+  margin: 0; /* 좌측 기준 정렬 */
+}
