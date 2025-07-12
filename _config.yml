@@ -54,7 +54,7 @@ collections:
 
 # Disqus Comments
 disqus:
-  shortname: your-disqus-shortname
+  shortname: easywaldo-1
 
 # Category descriptions
 category_descriptions:
