@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Easywaldo's 블로그
+title: ""
 ---
 
 ## 생각과 일상을 기록하고 되새겨보는 공간 입니다. 👨‍💻
